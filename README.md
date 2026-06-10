@@ -1,0 +1,1 @@
+# Lab VMs validation scripts
