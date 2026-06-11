@@ -15,11 +15,16 @@ The script is specifically designed to test an environment in the context of the
 6. Run and execute a binky example using the PicSimLab board
 7. Offer to revert previously done installations
 
-To run the bash script, execute the ./validate_embedded_rust_setup.sh 
+This script passes shellcheck cleanly. See <https://www.tecmint.com/shellcheck-shell-script-code-analyzer-for-linux/> for
+more information on shellcheck.
 
-> Note: You may need to make the script executable with a chmod +x validate_embedded_rust_setup.sh 
+To run the bash script, execute the `./validate_embedded_rust_setup.sh`
 
-> Note: The rollback scripts are located inside the embedded-rust-setup-logs directory
+> Note: You may need to make the script executable with a
+> `chmod +x validate_embedded_rust_setup.sh`
+
+> Note: The rollback scripts are located inside the embedded-rust-setup-logs
+> directory
 
 ![Screenshot_from_2026-06_10_14-48-32](./img/Screenshot_from_2026-06_10_14-48-32.png)
 

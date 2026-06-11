@@ -1,0 +1,7 @@
+# Ignore platform trash
+thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
